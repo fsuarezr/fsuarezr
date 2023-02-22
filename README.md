@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Franz Suárez</h1>
 <h3 align="center">I'm a backend developer interested on IA applications, managing-handling data.</h3>
 
-- 🌱 I’m currently learning **Algorithms and kubernetes**
+- 🌱 I’m currently learning: **Algorithms and kubernetes**
 
-- 💬 Ask me about **Backend in NodeJS, Python and IBM Watson Assistant**
+- 💬 Ask me about: **Backend in NodeJS, Python and IBM Watson Assistant**
 
-- 📫 How to reach me **franz.suarez@hotmail.com**
+- 📫 How to reach me: **franz.suarez@hotmail.com**
 
-- ⚡ Fun fact **I love read books 📚 and play some rock n roll 🎸**
+- ⚡ Fun fact: **I love read books 📚 and play some rock n roll 🎸**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
