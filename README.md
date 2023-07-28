@@ -11,12 +11,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/franz-sigfried-suarez-ramirez-7624a8179" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="franz-sigfried-suarez-ramirez-7624a8179" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/franz-sigfried-suarez-ramirez-7624a8179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">More about my work experience and career:</h3>
 <p align="left">
-<a href="https://hushed-shark-8c6.notion.site/Franz-Su-rez-fa69dafa5abc42829a1ba12ee3e3f35c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="franz-sigfried-suarez-ramirez-7624a8179" height="30" width="40" /></a>
+<a href="https://hushed-shark-8c6.notion.site/Franz-Su-rez-fa69dafa5abc42829a1ba12ee3e3f35c" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="30" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
