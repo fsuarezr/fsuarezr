@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning: **Algorithms and kubernetes**
 
-- 💬 Ask me about: **Backend in NodeJS, Python and IBM Watson Assistant**
+- 💬 Ask me about: **Backend in JS, TypeScript, Python and IBM Watson Assistant**
 
 - 📫 How to reach me: **franz.suarez@hotmail.com**
 
