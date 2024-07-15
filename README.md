@@ -1,49 +1,73 @@
-<h1 align="center">Hi 👋, I'm Franz Suárez</h1>
-<h3 align="center">I'm a backend developer interested on IA applications, managing-handling data.</h3>
+<div align="center">
+  <a href="https://www.linkedin.com/in/franz-s-7624a8179/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="franz.suarez@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="https://hushed-shark-8c6.notion.site/Franz-Su-rez-fa69dafa5abc42829a1ba12ee3e3f35c" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Web%20Site&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="patreon logo"  />
+  </a>
+</div>
 
-- 🌱 I’m currently learning: **Algorithms and kubernetes**
+###
 
-- 💬 Ask me about: **Backend in JS, TypeScript, Python and IBM Watson Assistant**
+<h1 align="center">Hey there 👋</h1>
 
-- 📫 How to reach me: **franz.suarez@hotmail.com**
+###
 
-- ⚡ Fun fact: **I love read books 📚 and play some rock n roll 🎸**
+<h3 align="left">👩‍💻  About Me</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/franz-suarez-ramirez-7624a8179/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="30" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">More about my work experience and career:</h3>
-<p align="left">
-<a href="https://hushed-shark-8c6.notion.site/Franz-Su-rez-fa69dafa5abc42829a1ba12ee3e3f35c" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="30" height="30" width="40" /></a>
-</p>
+<p align="left">I'm Franz Suárez and I'm a Backed Developer with over +5 YOE from Perú.<br><br>🌱 I’m currently learning: Algorithms and kubernetes<br><br>💬 Ask me about: Backend in JS, TypeScript, Python and IBM Watson Assistant<br><br>⚡ Fun fact: I love read books 📚 and play some rock n roll 🎸</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
- <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer" title= "Azure"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
- <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" title= "AWS"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
- <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" title="CSharp"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
- <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
- <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" title="Pandas"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
- <a href="https://expressjs.com" target="_blank" rel="noreferrer" title="Express"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
- <a href="https://nodejs.org" target="_blank" rel="noreferrer" title="NodeJS"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
- <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
- <a href="https://kubernetes.io" target="_blank" rel="noreferrer" title="Kubernetes"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
- <a href="https://redis.io" target="_blank" rel="noreferrer" title="Redis"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
- <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" title="MSSQL"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MYSQL"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
- <a href="https://www.oracle.com/" target="_blank" rel="noreferrer" title="Oracle"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
- <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" title="PostgreSQL"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
- <a href="https://www.nginx.com" target="_blank" rel="noreferrer" title="NGINX"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
- <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer" title="RabbitMQ"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a>
- <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer" title="Kafka"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a>
- <a href="https://postman.com" target="_blank" rel="noreferrer" title="Postman"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
- <a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="Figma"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
- </p>
+###
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fsuarezr&show_icons=true&locale=en&layout=compact" alt="fsuarezr" /></p>
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="rabbitmq logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="apachekafka logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bots" height="40" alt="abbrobotstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+</div>
+
+###
