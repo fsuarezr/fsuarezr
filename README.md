@@ -22,6 +22,7 @@
 
 <p align="left">I'm Franz Suárez and I'm a Backed Developer with over +5 YOE from Perú.<br><br>🌱 I’m currently learning: Algorithms and kubernetes<br><br>💬 Ask me about: Backend in JS, TypeScript, Python and IBM Watson Assistant<br><br>⚡ Fun fact: I love read books 📚 and play some rock n roll 🎸</p>
 
+----
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -70,4 +71,10 @@
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
 </div>
 
-###
+----
+## 📊 GitHub Stats:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fsuarezr&show_icons=true&theme=dark&locale=en&layout=compact" alt="fsuarezr" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fsuarezr&" alt="fsuarezr" /></p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=fsuarezr&theme=gruvbox&title=-Issues,-Reviews)
