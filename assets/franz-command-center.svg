@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Franz Suárez — Engineering Command Center</title>
+  <desc id="desc">A dark, minimalist technical banner with a connected systems diagram, data streams, and a subtle ocean-wave contour.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111F"/>
+      <stop offset="0.58" stop-color="#0B1728"/>
+      <stop offset="1" stop-color="#101D31"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#67E8F9"/>
+      <stop offset="1" stop-color="#3B82F6"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop offset="0" stop-color="#0EA5E9" stop-opacity=".19"/>
+      <stop offset="1" stop-color="#0EA5E9" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#94A3B8" stroke-opacity=".07" stroke-width="1"/>
+    </pattern>
+    <filter id="softGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="20" fill="url(#grid)"/>
+  <circle cx="965" cy="170" r="270" fill="url(#halo)"/>
+
+  <!-- Technical frame -->
+  <path d="M34 28H1166V332H34Z" fill="none" stroke="#64748B" stroke-opacity=".25"/>
+  <path d="M34 58H47M34 58V28M1166 58H1153M1166 58V28M34 302H47M34 302V332M1166 302H1153M1166 302V332" fill="none" stroke="#67E8F9" stroke-opacity=".75" stroke-width="2"/>
+  <text x="66" y="76" fill="#67E8F9" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="3">FS / ENGINEERING PROFILE</text>
+  <text x="1132" y="76" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" text-anchor="end" letter-spacing="2">EST. 2018 · LATAM</text>
+
+  <!-- Main typography -->
+  <text x="66" y="157" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="45" font-weight="700" letter-spacing="1">SYSTEMS.</text>
+  <text x="66" y="209" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="45" font-weight="700" letter-spacing="1">DATA.</text>
+  <text x="66" y="261" fill="#67E8F9" font-family="Arial, Helvetica, sans-serif" font-size="45" font-weight="700" letter-spacing="1">ARCHITECTURE.</text>
+  <text x="68" y="298" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing=".7">Designing systems that scale. Building data platforms you can trust.</text>
+
+  <!-- Abstract system map / network -->
+  <g transform="translate(790 104)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="176" cy="83" r="123" stroke="#38BDF8" stroke-opacity=".14" stroke-width="1"/>
+    <circle cx="176" cy="83" r="99" stroke="#67E8F9" stroke-opacity=".26" stroke-width="1" stroke-dasharray="3 8"/>
+    <circle cx="176" cy="83" r="66" stroke="url(#glow)" stroke-opacity=".7" stroke-width="1.5"/>
+    <circle cx="176" cy="83" r="43" stroke="#67E8F9" stroke-opacity=".8" stroke-width="1.5" filter="url(#softGlow)"/>
+    <path d="M176 17V149M110 83H242M129 36L223 130M223 36L129 130" stroke="#67E8F9" stroke-opacity=".22" stroke-width="1"/>
+    <path d="M176 17L176 -5H278M242 83H302V44M110 83H54V124M129 130L94 165H35" stroke="#67E8F9" stroke-opacity=".72" stroke-width="1.5"/>
+    <path d="M176 149V183H254M223 36L263 -4H322" stroke="#60A5FA" stroke-opacity=".65" stroke-width="1.5"/>
+    <path d="M54 124H20M302 44H333M254 183H290" stroke="#64748B" stroke-opacity=".8" stroke-width="1"/>
+    <circle cx="176" cy="83" r="9" fill="#67E8F9" stroke="none" filter="url(#softGlow)"/>
+    <circle cx="278" cy="-5" r="4" fill="#67E8F9" stroke="none"/>
+    <circle cx="302" cy="44" r="4" fill="#60A5FA" stroke="none"/>
+    <circle cx="54" cy="124" r="4" fill="#67E8F9" stroke="none"/>
+    <circle cx="254" cy="183" r="4" fill="#60A5FA" stroke="none"/>
+    <circle cx="322" cy="-4" r="4" fill="#67E8F9" stroke="none"/>
+  </g>
+
+  <!-- Small system labels -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" letter-spacing="1.4" fill="#94A3B8">
+    <text x="1090" y="112" text-anchor="end">BACKEND</text>
+    <text x="1100" y="285" text-anchor="end">DATA PLATFORM</text>
+    <text x="810" y="320">RELIABILITY / AUTOMATION / SCALE</text>
+  </g>
+
+  <!-- Low-contrast ocean contour: a personal signature, not a literal illustration -->
+  <path d="M0 326C120 303 178 348 295 325S472 303 586 326 760 346 866 323 1044 302 1200 326" fill="none" stroke="#38BDF8" stroke-opacity=".15" stroke-width="1.2"/>
+  <path d="M0 338C120 315 178 360 295 337S472 315 586 338 760 358 866 335 1044 314 1200 338" fill="none" stroke="#38BDF8" stroke-opacity=".09" stroke-width="1"/>
+</svg>
