@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="./assets/franz-command-center.svg" alt="Franz Suárez — Senior Software Engineer, Backend & Data Engineering" width="100%" />
-  <br />
   <h1>Franz Suárez</h1>
   <h3>Senior Software Engineer · Backend & Data Engineering</h3>
   <p><strong>Engineering since 2018</strong> · Regional technical ownership · Team leadership</p>
@@ -124,22 +122,3 @@ A reusable NestJS starting point with a separation between core and service modu
 - **Reliability:** build for observability, recoverability, data integrity, and predictable operations.
 - **Clarity:** prefer understandable architecture, useful documentation, and explicit engineering standards.
 - **Enablement:** share context, review thoughtfully, and make it easier for others to deliver good work.
-
-## `06 / GITHUB SNAPSHOT`
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsuarezr&layout=compact&langs_count=8&hide_border=true&title_color=67E8F9&text_color=C9D1D9&bg_color=0D1117" alt="Most used languages in public repositories" />
-</p>
-
-<p align="center"><sub>A snapshot of public repository languages — not a complete representation of my professional day-to-day stack.</sub></p>
-
----
-
-<div align="center">
-  <h3>Build systems that scale. Make complexity disappear.</h3>
-  <p>Based in Lima, Peru · Working with teams across time zones</p>
-  <p>Outside engineering: surfing, guitar, books, and a healthy amount of rock & roll. 🌊 🎸</p>
-  <a href="https://www.linkedin.com/in/franz-s-7624a8179/">LinkedIn</a> ·
-  <a href="mailto:franz.suarez@hotmail.com">Email</a> ·
-  <a href="https://github.com/fsuarezr">GitHub</a>
-</div>
